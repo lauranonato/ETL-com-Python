@@ -13,3 +13,5 @@ https://academic.udayton.edu/kissock/http/Weather/source.htm
 
 Vale ressaltar que os dados estão na unidade de medida Fahrenheit e quando ha dados faltantes é adotado por default "-99"
 Uma estrategia para tratar esse default foi substituir o "-99" por uma média da temperatura entre o dia anterior e o posterior (escolhendo o primeiro registro nao nulo desses)
+
+Códigos desenvolvidos com o curso https://www.udemy.com/course/etl-basico-com-python/
