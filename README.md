@@ -2,6 +2,7 @@ Esse projeto tem como objetivo utilizar a linguagem de programação Python para
 Foram transformados os dados, criados dataframes finais a partir desse processo, validados e carregados no banco de dados Big Query 
 
 Fonte dos dados:
+
 ETL de arquivo CSV: dados abertos de contratos administrativos da AEB - Agencia Espacial Brasileira 
 https://dados.gov.br/dataset/dados-abertos-de-contratos-administrativos/resource/6a9526c4-bd86-46fb-b7aa-539df37f849a
 
