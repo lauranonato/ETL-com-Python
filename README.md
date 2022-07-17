@@ -1,4 +1,4 @@
-Esse projeto tem como objetivo utilizar a linguagem de programação Python para realizar o processo de ETL - Extração, Transformação e Carregamento (Load) de diversos tipos de arquivos (csv,Json,txt).
+Esse projeto tem como objetivo utilizar a linguagem de programação Python para realizar o processo de ETL - Extração, Transformação e Carregamento (Load) de diferentes formatos de arquivos (csv,Json,txt).
 Foram transformados os dados, criados dataframes finais a partir desse processo, validados e carregados no banco de dados Big Query 
 
 Fonte dos dados:
