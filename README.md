@@ -16,3 +16,5 @@ Vale ressaltar que os dados estão na unidade de medida Fahrenheit e quando ha d
 Uma estrategia para tratar esse default foi substituir o "-99" por uma média da temperatura entre o dia anterior e o posterior (escolhendo o primeiro registro nao nulo desses)
 
 Códigos desenvolvidos com o curso https://www.udemy.com/course/etl-basico-com-python/
+
+ETL de arquivo PDF: Documentação com os tipos de dados no sistema de divida ativa https://dados.gov.br/dataset/sistema-de-divida-ativa
