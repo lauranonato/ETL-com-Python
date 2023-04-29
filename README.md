@@ -1,6 +1,8 @@
 Esse é um repositório sobre o projeto de ETL - Extração, Transformação e Carregamento (Load) utilizando linguagem de programação Python com diferentes formatos de arquivos (csv,Json,txt).
 
-Foram transformados os dados, criados dataframes finais a partir desse processo, validados e carregados no banco de dados Big Query. 
+Nesse projeto, parti de um cenário em que os dados não estão disponíveis em um banco de dados, então o foco esteve na transformação dos dados, criação de dataframes finais e a partir desse processo, validar e carregar em no banco de dados. 🛠️🙂
+
+**Toolkit do projeto**: Python, jupyter notebook e Big Query (GCP)
 
 | File  | Description | Fonte dos dados|
 | ------------- | ------------- |------------- |
